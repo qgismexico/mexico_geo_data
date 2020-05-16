@@ -7,5 +7,5 @@ Repositorio con links a las fuentes de datos geográficas de México.
 
 ## Infraestructura
 ### Centros de Salud
-* [Subsistema CLUES](http://gobi.salud.gob.mx/Bases_Clues.html)
+* [Subsistema CLUES (Secretaría de Salud)](http://gobi.salud.gob.mx/Bases_Clues.html)
 
