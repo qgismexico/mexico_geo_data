@@ -20,7 +20,7 @@ Repositorio con links a las fuentes de datos geográficas de México.
 ## Infraestructura
 ### Centros de Salud
 * [Subsistema CLUES (Secretaría de Salud)](http://gobi.salud.gob.mx/Bases_Clues.html)
-* Red Nacional de Caminos(Secretaría de Comunicaciones y Transportes):
+* Red Nacional de Caminos (Secretaría de Comunicaciones y Transportes):
   * [Completa](http://189.254.204.50:83/recursos/ShapeFiles/Red_Nacional_de_Caminos_2019.zip)
   * Capas:
     * [Red vial](http://189.254.204.50:83/recursos/ShapeFiles/Red_vial_shapefiles2019.zip)
