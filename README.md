@@ -20,19 +20,19 @@ Repositorio con links a las fuentes de datos geográficas de México.
 ## Infraestructura
 ### Centros de Salud
 * [Subsistema CLUES (Secretaría de Salud)](http://gobi.salud.gob.mx/Bases_Clues.html)
-* Red Nacional de Caminos (Secretaría de Comunicaciones y Transportes):
-  * [Completa](http://189.254.204.50:83/recursos/ShapeFiles/Red_Nacional_de_Caminos_2019.zip)
-  * Capas:
-    * [Red vial](http://189.254.204.50:83/recursos/ShapeFiles/Red_vial_shapefiles2019.zip)
-    * [Localidades](http://189.254.204.50:83/recursos/ShapeFiles/Localidad_shapefiles2019.zip)
-    * [Plazas de cobro](http://189.254.204.50:83/recursos/ShapeFiles/Plaza_cobro_shapefiles2019.zip)
-    * [Hitos kilométricos](http://189.254.204.50:83/recursos/ShapeFiles/Poste_referencia_shapefiles2019.zip)
-    * [Puentes](http://189.254.204.50:83/recursos/ShapeFiles/Puente_shapefiles2019.zip)
-    * [Estructuras](http://189.254.204.50:83/recursos/ShapeFiles/Estructuras_shapefiles2019.zip)
-    * [Sitios de interés](http://189.254.204.50:83/recursos/ShapeFiles/Sitio_de_interes_shapefiles2019.zip)
-    * [Transbordador](http://189.254.204.50:83/recursos/ShapeFiles/Transbordador_shapefiles2019.zip)
-    * [Maniobras prohibidas](http://189.254.204.50:83/recursos/ShapeFiles/Maniobras_prohibidas_shapefiles2019.zip)
-    * [Unión (nodos de unión de la red via)](http://189.254.204.50:83/recursos/ShapeFiles/Union_shapefiles2019.zip)
+### Red Nacional de Caminos (Secretaría de Comunicaciones y Transportes):
+* [Completa](http://189.254.204.50:83/recursos/ShapeFiles/Red_Nacional_de_Caminos_2019.zip)
+* Capas:
+  * [Red vial](http://189.254.204.50:83/recursos/ShapeFiles/Red_vial_shapefiles2019.zip)
+  * [Localidades](http://189.254.204.50:83/recursos/ShapeFiles/Localidad_shapefiles2019.zip)
+  * [Plazas de cobro](http://189.254.204.50:83/recursos/ShapeFiles/Plaza_cobro_shapefiles2019.zip)
+  * [Hitos kilométricos](http://189.254.204.50:83/recursos/ShapeFiles/Poste_referencia_shapefiles2019.zip)
+  * [Puentes](http://189.254.204.50:83/recursos/ShapeFiles/Puente_shapefiles2019.zip)
+  * [Estructuras](http://189.254.204.50:83/recursos/ShapeFiles/Estructuras_shapefiles2019.zip)
+  * [Sitios de interés](http://189.254.204.50:83/recursos/ShapeFiles/Sitio_de_interes_shapefiles2019.zip)
+  * [Transbordador](http://189.254.204.50:83/recursos/ShapeFiles/Transbordador_shapefiles2019.zip)
+  * [Maniobras prohibidas](http://189.254.204.50:83/recursos/ShapeFiles/Maniobras_prohibidas_shapefiles2019.zip)
+  * [Unión (nodos de unión de la red via)](http://189.254.204.50:83/recursos/ShapeFiles/Union_shapefiles2019.zip)
 
 ### Transporte público
 * [Metro de la Ciudad de México](https://datos.cdmx.gob.mx/explore/dataset/lineas-de-metro/custom/)
