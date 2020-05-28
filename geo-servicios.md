@@ -1,6 +1,10 @@
 # Geo-Servicios y Visores
 Geo Servicios wms, wfs, tilexyz, rest, api disponibles en México
 
+## CONABIO
+* Visor web:http://www.conabio.gob.mx/informacion/gis/
+* http://wms1.conabio.gob.mx/tilecache.py?
+
 ## INEGI
 ### Acervo de información Geográfica INEGI (Mapa Digital de México v6.1)
 * WMS - http://gaia.inegi.org.mx/NLB/tunnel/wms/wms61?
