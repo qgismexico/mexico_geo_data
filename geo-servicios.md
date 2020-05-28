@@ -17,5 +17,3 @@ Red Nacional de Caminos
 * [GeoInfoMex 2D](https://www.sgm.gob.mx/GeoInfoMexGobMx/)
 * [GeoInfoMex 3D](https://www.sgm.gob.mx/GeoInfoMex3D/)
 
-### Contenido:
-![Vista previa](imagenes/IMTRedNacionaldeCaminos.png)
