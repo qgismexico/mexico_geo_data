@@ -14,8 +14,6 @@ Repositorio con links a las fuentes de datos geográficas de México.
 
 ### Recursos Naturales
 * [Áreas Naturales Protegidas](http://sig.conanp.gob.mx/website/pagsig/info_shape.htm)
-* [GeoInfoMex 2D](https://www.sgm.gob.mx/GeoInfoMexGobMx/)
-* [GeoInfoMex 3D](https://www.sgm.gob.mx/GeoInfoMex3D/)
 
 ## Infraestructura
 ### Centros de Salud
