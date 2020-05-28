@@ -10,8 +10,8 @@ Acervo de información Geográfica INEGI (Mapa Digital de México v6.1)
 
 ## IMT
 Red Nacional de Caminos
-#### WMS - http://189.254.204.50:83/geoserver/RNC2019/wms
-#### Web - 189.254.204.50:83
+#### WMS:http://189.254.204.50:83/geoserver/RNC2019/wms
+#### Visor Web:189.254.204.50:83
 
 ## Servicio Geológico Mexicano (visores)
 * [GeoInfoMex 2D](https://www.sgm.gob.mx/GeoInfoMexGobMx/)
