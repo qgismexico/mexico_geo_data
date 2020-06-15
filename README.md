@@ -15,9 +15,11 @@ Repositorio con links a las fuentes de datos geográficas de México.
 ### Recursos Naturales
 * [Áreas Naturales Protegidas](http://sig.conanp.gob.mx/website/pagsig/info_shape.htm)
 
-## Infraestructura
+## Infraestructura y equipamiento
 ### Centros de Salud
 * [Subsistema CLUES (Secretaría de Salud)](http://gobi.salud.gob.mx/Bases_Clues.html)
+### Centros escolares
+* [Sistema de Información y Gestión Educativa SIGED (Secretaría de Educación Pública - SEP )](https://siged.sep.gob.mx/SIGED/escuelas.html)
 ### Red Nacional de Caminos (Secretaría de Comunicaciones y Transportes):
 * [Completa](http://189.254.204.50:83/recursos/ShapeFiles/Red_Nacional_de_Caminos_2019.zip)
 * Capas:
