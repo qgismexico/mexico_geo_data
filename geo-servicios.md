@@ -23,3 +23,6 @@ Geo Servicios wms, wfs, tilexyz, rest, api disponibles en México
 * [GeoInfoMex 2D](https://www.sgm.gob.mx/GeoInfoMexGobMx/)
 * [GeoInfoMex 3D](https://www.sgm.gob.mx/GeoInfoMex3D/)
 
+## IMEPLAN (Instituto Metropolitano de Planeación - Área Metropolitana de Guadalajara)
+* [SIGMETRO](https://sigmetro.imeplan.mx/mapa)
+
